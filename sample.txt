@@ -1,0 +1,3 @@
+Hello I am doing this cool Ruby project
+ This is a project that takes letters and
+ encrypts them. I find this exercise to be fun and challenging.
